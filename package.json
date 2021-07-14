@@ -1,0 +1,9 @@
+{
+  "name": "chara-policy",
+  "version": "1.0.0",
+  "description": "Provide Policy Info for Chara Mobile application",
+  "main": "main.js",
+  "repository": "https://github.com/razvanescu/chara-policy",
+  "author": "Razvan Manea <razvan.manea@alten.com>",
+  "license": "MIT"
+}
