@@ -1,0 +1,1 @@
+# Provide policy info for Chara Mobile application
